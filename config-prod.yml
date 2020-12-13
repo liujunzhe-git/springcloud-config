@@ -1,2 +1,3 @@
-config: 
-  info: "cls springcloud-config/prod version=3"
+#生产分支
+config:
+  info: "master springcloud-config/prod version=2"
